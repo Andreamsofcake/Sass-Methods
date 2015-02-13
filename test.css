@@ -1,17 +1,13 @@
-p {
+.blog .entry p {
   color: blue;
   margin: 10px; }
-
-.hello {
+.blog .entry .hello {
   height: 10px; }
-
-h1 {
+.blog .entry h1 {
   color: red; }
-
-h2 {
+.blog .entry h2 {
   color: green; }
-
-div {
+.blog .entry div {
   margin: 10px; }
 
 /*# sourceMappingURL=test.css.map */
