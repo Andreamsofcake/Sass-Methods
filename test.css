@@ -3,6 +3,10 @@ body {
 
 .blog-entry h1 {
   font-size: 40px; }
+  .blog-entry h1:hover {
+    color: blue; }
+.blog-entry a:hover {
+  color: blue; }
 .blog-entry p {
   font-size: 12px;
   margin: 20px; }

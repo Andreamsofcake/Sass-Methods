@@ -4,6 +4,14 @@ body {
 .blog-entry {
   h1{
     font-size: 40px;
+    &:hover{
+      color: blue;
+    }
+  }
+  a{
+    &:hover{
+      color: blue;
+    }
   }
   p{
     font-size: 12px;
