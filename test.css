@@ -4,6 +4,12 @@ body {
 .blog-entry h1 {
   font-size: 40px; }
 .blog-entry p {
-  font-size: 12px; }
+  font-size: 12px;
+  margin: 20px; }
+
+html.csscolums .blog-entry {
+  column-count: 2;
+  column-gap: 10px;
+  margin: 10px; }
 
 /*# sourceMappingURL=test.css.map */
