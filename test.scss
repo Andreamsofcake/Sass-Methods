@@ -8,12 +8,10 @@ body {
   p{
     font-size: 12px;
     margin: 20px;
-  }
-}
-html.csscolums{
-  .blog-entry {
+    html.csscolums &{
     column-count: 2;
     column-gap: 10px;
     margin: 10px;
+    }
   }
 }

@@ -6,10 +6,9 @@ body {
 .blog-entry p {
   font-size: 12px;
   margin: 20px; }
-
-html.csscolums .blog-entry {
-  column-count: 2;
-  column-gap: 10px;
-  margin: 10px; }
+  html.csscolums .blog-entry p {
+    column-count: 2;
+    column-gap: 10px;
+    margin: 10px; }
 
 /*# sourceMappingURL=test.css.map */
