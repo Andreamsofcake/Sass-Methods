@@ -1,13 +1,9 @@
-.blog .entry p {
-  color: blue;
-  margin: 10px; }
-.blog .entry .hello {
-  height: 10px; }
-.blog .entry h1 {
-  color: red; }
-.blog .entry h2 {
-  color: green; }
-.blog .entry div {
-  margin: 10px; }
+body {
+  background: #707070; }
+
+.blog-entry h1 {
+  font-size: 40px; }
+.blog-entry p {
+  font-size: 12px; }
 
 /*# sourceMappingURL=test.css.map */
