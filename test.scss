@@ -4,25 +4,23 @@
 body {
   background: #707070;
 }
-.blog .entry {
+.blog {
   h1{
     font-size: 40px;
     &:hover{
       color: blue;
     }
   }
-  a{
+}
+.entry p{
+    font-size: 12px;
+    margin: 20px;
     &:hover{
       color: blue;
     }
-  }
-  p{
-    font-size: 12px;
-    margin: 20px;
     html.csscolums &{
     column-count: 2;
     column-gap: 10px;
     margin: 10px;
-    }
   }
 }
