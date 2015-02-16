@@ -1,4 +1,4 @@
-
+$primary-color: #0000FF;
 
 
 body {
@@ -8,7 +8,7 @@ body {
   h1{
     font-size: 40px;
     &:hover{
-      color: blue;
+      color: $primary-color;
     }
   }
 }
@@ -16,7 +16,7 @@ body {
     font-size: 12px;
     margin: 20px;
     &:hover{
-      color: blue;
+      color: $primary-color;
     }
     html.csscolums &{
     column-count: 2;
